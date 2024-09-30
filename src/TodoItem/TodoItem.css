@@ -7,6 +7,10 @@
     align-items: center;
     margin-top: 24px;
     box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.15);
+    transition: all 0.2s ease;
+}
+.TodoItem:hover{
+    scale: 1.02;
 }
 
 .TodoItem-p {
