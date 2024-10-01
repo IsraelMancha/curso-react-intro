@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Users/guest1/Dev/curso-react-intro/build/static/css/main.f52f4742.css",
+    "main.js": "/Users/guest1/Dev/curso-react-intro/build/static/js/main.028a99a6.js",
+    "index.html": "/Users/guest1/Dev/curso-react-intro/build/index.html",
+    "main.f52f4742.css.map": "/Users/guest1/Dev/curso-react-intro/build/static/css/main.f52f4742.css.map",
+    "main.028a99a6.js.map": "/Users/guest1/Dev/curso-react-intro/build/static/js/main.028a99a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f52f4742.css",
+    "static/js/main.028a99a6.js"
+  ]
+}
